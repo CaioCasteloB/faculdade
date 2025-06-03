@@ -22,7 +22,7 @@ import jakarta.xml.bind.annotation.XmlTransient;
 
 /**
  *
- * @author grego
+ * @author caio
  */
 @Entity
 @Table(name = "usuario")
