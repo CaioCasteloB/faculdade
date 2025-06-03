@@ -20,7 +20,7 @@ import jakarta.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author grego
+ * @author caio
  */
 @Entity
 @Table(name = "pessoa_juridica")

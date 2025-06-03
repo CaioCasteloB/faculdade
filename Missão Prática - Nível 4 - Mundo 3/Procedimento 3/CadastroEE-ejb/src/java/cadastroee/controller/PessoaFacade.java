@@ -11,7 +11,7 @@ import jakarta.persistence.PersistenceContext;
 
 /**
  *
- * @author grego
+ * @author caio
  */
 @Stateless
 public class PessoaFacade extends AbstractFacade<Pessoa> implements PessoaFacadeLocal {

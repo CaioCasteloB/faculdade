@@ -9,7 +9,7 @@ import jakarta.persistence.EntityManager;
 
 /**
  *
- * @author grego
+ * @author caio
  */
 public abstract class AbstractFacade<T> {
 

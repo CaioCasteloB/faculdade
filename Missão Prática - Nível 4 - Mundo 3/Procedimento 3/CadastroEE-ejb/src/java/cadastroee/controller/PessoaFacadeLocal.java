@@ -10,7 +10,7 @@ import jakarta.ejb.Local;
 
 /**
  *
- * @author grego
+ * @author caio
  */
 @Local
 public interface PessoaFacadeLocal {
