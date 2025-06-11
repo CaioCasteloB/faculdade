@@ -19,7 +19,7 @@ import javax.persistence.Persistence;
 
 /**
  *
- * @author grego
+ * @author caio
  */
 public class CadastroServer {
 

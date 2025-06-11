@@ -6,7 +6,7 @@ package cadastroclient;
 import javax.swing.*;
 /**
  *
- * @author grego
+ * @author caio
  */
 public class SaidaFrame extends JDialog {
     public JTextArea texto;

@@ -17,7 +17,7 @@ import model.Usuario;
 
 /**
  *
- * @author grego
+ * @author caio
  */
 public class CadastroThread extends Thread {
     

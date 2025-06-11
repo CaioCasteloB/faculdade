@@ -23,7 +23,7 @@ import org.eclipse.persistence.tools.PackageRenamer;
 
 /**
  *
- * @author grego
+ * @author caio
  */
 public class UsuarioJpaController implements Serializable {
 

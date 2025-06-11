@@ -21,7 +21,7 @@ import model.Usuario;
 
 /**
  *
- * @author grego
+ * @author caio
  */
 public class MovimentoJpaController implements Serializable {
 
