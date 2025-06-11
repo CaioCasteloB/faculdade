@@ -23,7 +23,7 @@ import model.Pessoa;
 
 /**
  *
- * @author grego
+ * @author caio
  */
 public class PessoaJpaController implements Serializable {
 

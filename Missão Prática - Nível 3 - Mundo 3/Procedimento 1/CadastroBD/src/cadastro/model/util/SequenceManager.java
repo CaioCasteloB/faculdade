@@ -11,7 +11,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author grego
+ * @author caio
  */
 public class SequenceManager {
         

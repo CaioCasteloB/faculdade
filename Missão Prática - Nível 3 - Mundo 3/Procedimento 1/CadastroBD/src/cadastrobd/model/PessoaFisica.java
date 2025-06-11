@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author grego
+ * @author caio
  */
 public class PessoaFisica extends Pessoa implements Serializable {
 
