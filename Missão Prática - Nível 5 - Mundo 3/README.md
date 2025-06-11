@@ -12,7 +12,7 @@
 * Semestre Letivo: 2025.1
 * Turma: 9001
 * Campus: Parangaba
-* Aluno: [Caio Viana Castelo Branco](https://github.com/CaioCasteloB)
+* Aluno: Caio Viana Castelo Branco
 * Matricula: 202307465925
 <hr>
  <h1 align="center"> Missão Prática | Nível 5 | Mundo 3 </h1>
@@ -22,7 +22,7 @@ quanto no lado servidor, acessando o banco de dados via JPA.</h2>
  <h3>Procedimento 2: Servidor Completo e Cliente Assíncrono </h3>
  <hr>
 
- <h2> :clipboard: Objetivos da Prática </h2>
+ <h2> Objetivos da Prática </h2>
 
 * Criar servidores Java com base em Sockets.
 * Criar clientes síncronos para servidores com base em Sockets.
