@@ -4,9 +4,9 @@ Trabalho prático da disciplina **Desenvolvimento de Aplicativos Móveis com Flu
 
 ## Informações do Aluno
 
-| Autor       | Caio Viana Castelo Branco     |
-| Matrícula   | 202307465925                  |
-| Disciplina  | Desenvolvimento de Aplicativos Móveis com Flutter — DGT2812 |
+Autor: Caio Viana Castelo Branco
+Matrícula: 202307465925                  |
+Disciplina: Desenvolvimento de Aplicativos Móveis com Flutter — DGT2812 |
 
 ## Sobre o Projeto
 
