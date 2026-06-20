@@ -1,16 +1,52 @@
-# my_app
+# Missão Prática — DGT2812
 
-A new Flutter project.
+Trabalho prático da disciplina **Desenvolvimento de Aplicativos Móveis com Flutter**.
 
-## Getting Started
+## Informações do Aluno
 
-This project is a starting point for a Flutter application.
+| Autor       | Caio Viana Castelo Branco     |
+| Matrícula   | 202307465925                  |
+| Disciplina  | Desenvolvimento de Aplicativos Móveis com Flutter — DGT2812 |
 
-A few resources to get you started if this is your first Flutter project:
+## Sobre o Projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aplicativo Flutter desenvolvido como parte do trabalho prático da disciplina DGT2812, seguindo o roteiro da agência de viagens fictícia **Explore Mundo**. O app demonstra os principais conceitos de layout e widgets do Flutter, organizando as informações de um destino turístico em uma interface responsiva.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Funcionalidades implementadas
+
+- **MaterialApp / Scaffold / AppBar** — estrutura base do aplicativo
+- **Image.asset** — exibição de imagem de destino com `BoxFit.cover`
+- **Seção de Título** — nome e localização do destino com ícone de avaliação em estrela
+- **Seção de Botões** — linha de ações (CALL, ROUTE, SHARE) construída com método auxiliar `buildButtonColumn`
+- **Seção de Texto** — descrição do destino com quebra de linha automática (`softWrap`)
+- **ListView** — organização com suporte a rolagem em telas menores
+
+## Estrutura do Projeto
+
+```
+lib/
+  main.dart          # Código principal do aplicativo
+assets/
+  images/
+    lake.jpg         # Imagem do destino turístico
+documentacao_flutter.pdf  # Documentação do projeto
+pubspec.yaml         # Configuração de dependências e assets
+```
+
+## Como executar
+
+1. Certifique-se de ter o [Flutter SDK](https://flutter.dev) instalado.
+2. Clone o repositório e acesse a pasta do projeto.
+3. Instale as dependências:
+   ```bash
+   flutter pub get
+   ```
+4. Execute o aplicativo em um emulador ou dispositivo conectado:
+   ```bash
+   flutter run
+   ```
+
+## Tecnologias utilizadas
+
+- [Flutter](https://flutter.dev) — framework de desenvolvimento mobile
+- [Dart](https://dart.dev) — linguagem de programação
